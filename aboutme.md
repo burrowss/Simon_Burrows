@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Background information about myself.
 ---
+Simon Burrows
 
-My name is Inigo Montoya. I have the following qualities:
+TL;DR: My name is Simon Burrows. I am a computer science major at Allegheny College who is interested in working in the field of technology for a career, although my path and eventual destination is still widely unknown.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hello, my name is Simon Burrows. I am a first year student at Allegheny College. I am majoring in computer science and minoring in economics. I am originally from Rochester, New York where I attended Brighton High School until graduating in 2016. My family is a tight-knit one. My sister attends Goucher College for dance, my mother works as a psychiatrist and dean at the University of Rochester, and my father is self employed as a residential architect. I myself am hoping to go into the field of computer science as a career. Whether it is research, software development, or IT services, I want to be heavily involved in technology.
 
-What else do you need?
+My fascination with computers first started four years ago when a few of my friends started to move from playing video games on Xbox to playing on their own PCs. I soon joined them and built my first computer. Following this, I began to explore computers and computer science. I learned the basics of computer usage and troubleshooting quickly and wanted to get more involved in computers. I began to participate in online forums for help building computers as well as offering to build computers for friends and family. Since my interest in computers began, I have built approximately a dozen different computers for myself and others. Over the summer of 2015, I worked as an intern for an at home IT service, and it was then that I realized that this was something I wanted do for a career. Ever since then, I have maintained my interest in different aspects of computers, whether it is building machines with new components, or exploring different types of software and games.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Unfortunately, I could not explore the world of computer science while attending high school. Following my realization that I wanted to work in the field of technology, I began to look for universities that offered computer science and other similar programs. When I first toured Allegheny, I fell in love with the school and to my delight, discovered that there was a computer science program. Ever since applying to this school, I have wanted to learn the intricacies of computers and coding. Within the first few days after arriving, I began to learn computer science, coding, and new softwares. I am also interested in business and since Allegheny does not have a business program, I hope to minor in economics as an alternative. The knowledge I have gained so far from my courses has only made me more confident that I want be employed in the computer science or informational technology workforce. Following graduation at Allegheny, I plan to either go to work in the tech industry or to go to grad school so that I can obtain my master's degree. While my future is unknown for now, I am sure that I will be using the latest technology and software no matter where I am.
