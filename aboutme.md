@@ -3,7 +3,6 @@ layout: page
 title: About me
 subtitle: Background information about myself.
 ---
-Simon Burrows
 
 TL;DR: My name is Simon Burrows. I am a computer science major at Allegheny College who is interested in working in the field of technology for a career, although my path and eventual destination is still widely unknown.
 
