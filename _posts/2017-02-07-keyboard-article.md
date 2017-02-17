@@ -2,6 +2,7 @@
 layout: post
 title: Mechanical Keyboards
 subtitle: An Unknown, Yet Fascinating Hobby
+image: /img/mech_kb_square.jpg
 bigimg: /img/mech_kb.jpg
 ---
 
