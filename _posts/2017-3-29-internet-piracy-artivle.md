@@ -5,7 +5,9 @@ subtitle: A Look Into the Minds of Millennials
 image: /img/jolly_roger.jpg
 bigimg: /img/fbi_warning.jpg
 ---
-TL;DR: An interview of young students at a Pennsylvanian college about their knowledge and opinions on Internet piracy.
+TL;DR: Piracy is a key issue on the Internet and enforcement of it should be stricter. This article discusses the problems and opinions dealing with piracy as well as interviews a student at a Pennsylvanian college about their knowledge and opinions on Internet piracy.
+
+Stealing and theft of anything has always been considered a sin and a crime. In today's day and age, there is an assumption that these standards apply to digital content on the Internet. This has become somewhat of a controversy as some people see distributing digital goods on the Internet as simply sharing, while many others view it as a detriment to society. This topic however should not even a subject for debate. Piracy on the Internet is a major issue, a real crime, and one that needs to be addressed.
 
 Interview Questions:
 
