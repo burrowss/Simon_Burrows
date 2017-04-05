@@ -7,57 +7,15 @@ bigimg: /img/fbi_warning.jpg
 ---
 TL;DR: Piracy is a key issue on the Internet and enforcement of it should be stricter. This article discusses the problems and opinions dealing with piracy as well as interviews a student at a Pennsylvanian college about their knowledge and opinions on Internet piracy.
 
-Stealing and theft of anything has always been considered a sin and a crime. In today's day and age, there is an assumption that these standards apply to digital content on the Internet. This has become somewhat of a controversy as some people see distributing digital goods on the Internet as simply sharing, while many others view it as a detriment to society. This topic however should not even a subject for debate. Piracy on the Internet is a major issue, a real crime, and one that needs to be addressed.
+Stealing and theft of anything has always been considered a sin and a crime. In today’s day and age, there is an assumption that these standards apply to digital content on the Internet. This has become somewhat of a controversy as some people see distributing digital goods on the Internet as simply sharing, while many others view it as a detriment to society. This topic however should not even a subject for debate. Piracy on the Internet is a major issue, a real crime, and one that needs to be addressed. Internet piracy is defined by the Cambridge Dictionary as “the practice of using the Internet to illegally copy software and pass it on to other people”. Some of the most common forms include sharing music, movies, and software that is sold by other companies or people. There are many websites and ways that individuals from all over the world can find any media they want and download it to their own devices for free. Due to this, companies as well as artists may be losing out on precious revenue since millions of people could gain the same content from only one person purchasing it. It threatens the livelihood of many smaller businesses and artists while also potentially limiting larger entities.
 
-Internet piracy is defined by the Cambridge Dictionary as "the practice of using the Internet to illegally copy software and pass it on to other people". Some of the most common forms include sharing music, movies, and software that is sold by other companies or people. There are many websites and ways that individuals from all over the world can find any media they want and download it to their own devices for free. Due to this, companies as well as artists may be losing out on precious revenue since millions of people could gain the same content from only one person purchasing it. It threatens the livelihood of many smaller businesses and artists while also potentially limiting larger entities.
+As a college student, I have come to realize that internet piracy can be found all throughout school, whether it is music, movies, or textbooks that people download to save money. To gain another perspective outside of my own, I interviewed a friend of mine to find out what he knew about internet piracy. When asked what internet piracy was, he answered “Internet piracy is the illegal downloading of material on the web without the authorization of the creator”. As expected, many people have become aware of this crime and know what it is. My next questions were if he believed that it was common and if it was acceptable. His responses to those questions “I think it is very common among our age group, [yet] probably not as much in others” and “I think that it can be on a small scale, but not in large amounts or over a long period of time”. Again I was not surprised that he believed that it was common among teenagers and young adults but his beliefs that it may be acceptable in limited quantities surprised me. This was surprising since he has a strict moral code and high standards of judgement for people, so by thinking that this illegal activity may be alright was not in line of what I believed he would say. When asked about what punishment would be acceptable for internet piracy, he told me “an appropriate punishment would just be to make them pay for everything that was pirated. Much more could be seen as excessive”. To see if he may be biased based on his own experiences, I asked if he had ever pirated from the internet. As I anticipated, he responded that he had not.
 
-Interview Questions:
+With these answers, I figured that my friend knew a good amount about piracy, and was ready for some more complicated questions. My next question was what he believed was the most pirated media. He said that “music is probably the most pirated simply because it is the most common. There are many sites that have free music downloads, which makes it easily accessible”. Without any research, it seemed like a reasonable claim as there are many, easy ways to download music, while other types of media may be more difficult to pirate. Following research however, I discovered that music accounted for only 2.9% of the top 10,000 torrents in December of 2010 while films accounted for an incredible 35.2% (Envisional, 10). I then asked him what ways piracy could be damaging to individuals, to which he said “it hurts the artist behind the creation because they are not properly reimbursed for the popularity of their work”. Again, by rational thinking, my friend brought up a key point in the argument against internet piracy. Intrigued by this statement, I decided to research how much money could be lost to piracy and found that “one credible analysis by the Institute for Policy Innovation concludes that global music piracy causes $12.5 billion of economic losses every year, 71,060 U.S. jobs lost, a loss of $2.7 billion in workers’ earnings, and a loss of $422 million in tax revenues, $291 million in personal income tax and $131 million in lost corporate income and production taxes” (Music, n. pag.). Just as my friend had said, piracy can be very damaging to the economy and people’s income. To continue with the topic of who may be hurt from internet piracy, I asked if he thought piracy is a victimless crime. He said “I think it is relatively victimless because the artists and producing companies make enough money off of paid downloads. I don’t think that someone popular enough to be pirated is in desperate need of funding”. While his belief has merit and can be considered reasonable, it slightly contradicts his earlier idea that the artists creating the pirated content are hurt.The next question posed was asking why someone would pirate from the Internet. My friend’s response was that “Anyone trying to save money could pirate, and some people are not in a position economically to pay for all of their media, so piracy may be the only way that they can experience some things”. As with the rest of his responses, this reasoning makes a lot of sense, especially after seeing how much music and even textbooks for school can cost. My last question was if he had any ideas on how internet piracy could be limited. His idea was that “The way to slow or stop it could be limiting the accessibility of illegal downloads. There are many sites that are very easy to find, which may tempt some to get the product for free”. I agree with his idea since internet piracy is too easy and accessible.
 
-  1. Do you know what Internet piracy is?
+Following the interview, I read him the following quote: “In a study about attitudes and perceptions on music downloads using college students as subjects, Levin et al. (2004) found that only 63% of respondents download music. Those who download music have lesser ethical concerns and greater willingness to endorse ethically questionable acts, than those who do not download” (Altschuller 50). I then asked him what he thought of it and to offer his opinion about it. He said “I think that it paints Internet piracy in more of a negative light than it really warrants. It is very common and relatively impossible to be punished for, so many people are likely to utilize it as if it were a free service”. This view on the given quote was one that I had not considered before, as I had thought of the quote as trying to minimize how much internet piracy there is by using phrases such as “only 63%”.
 
-  2. Do you think that it is common?
-
-  3. Do you think that it is acceptable?
-
-  4. If it is not acceptable, what would be an appropriate punishment?
-
-  5. Have you ever participated in Internet piracy?
-
-  6. What do you think is the most pirated media?
-
-  7. In what ways could piracy be damaging?
-
-  8. Why would someone pirate from the Internet?
-
-  9. Is Internet piracy a victim-less crime?
-
-  10. How could Internet piracy be limited or restricted?
-
-  "In a study about attitudes and perceptions on music downloads using college students as subjects, Levin et al. (2004) found that only 63% of respondents download music. Those who download music have lesser ethical concerns and greater willingness to endorse ethically questionable acts, than those who do not download" (Altschuller 50).
-
-  Answers to the Questions:
-
-  1. Internet piracy is the illegal downloading of material on the web without the authorization of the creator.
-
-  2. I think it is very common among our age group, probably not as much in others.
-
-  3. I think that it can be on a small scale, but not in large amounts or over a long period of time.
-
-  4. An appropriate punishment would just be to make them pay for everything that was pirated. Much more could be seen as excessive.
-
-  5. I have not personally.
-
-  6. Music is probably the most pirated simply because it is the most common. There are many sites that have free music downloads, which makes it easily accessible.
-
-  7. It hurts the artist behind the creation because they are not properly reimbursed for the popularity of their work.
-
-  8. Anyone trying to save money could pirate, and some people are not in a position economically to pay for all of their media, so piracy may be the only way that they can experience some things.
-
-  9. I think it is relatively victimless because the artists and producing companies make enough money off of paid downloads. I don’t think that someone popular enough to be pirated is in desperate need of funding.
-
-  10. The way to slow or stop it could be limiting the accessibility of illegal downloads. There are many sites that are very easy to find, which may tempt some to get the product for free.
-
-Quote: I think that it paints Internet piracy in more of a negative light than it really warrants. It is very common and relatively impossible to be punished for, so many people are likely to utilize it as if it were a free service.
+Internet piracy has been a topic of debate for decades and differing opinions are still alive. By being able to interview a friend of mine at college, as well as researching the topic more in depth, I have been exposed to new perspectives on how internet piracy should be handled. While many may see internet piracy as a harmless service, the fact that it costs the economy and individuals billions of dollars is an issue that cannot be ignored. Debate needs to continue, and awareness must be spread so that people are informed of the detriments of internet piracy. Although it may be hard to enforce, internet piracy is widespread and must be curtailed. Whether it is changing search engine algorithms so piracy sites are harder to find, or by holding individuals accountable for the software they steal, action needs to be taken so that this piracy can be reigned in.
 
 
 Citations:
