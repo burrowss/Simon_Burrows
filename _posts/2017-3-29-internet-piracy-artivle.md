@@ -67,7 +67,7 @@ As with the rest of his responses, this reasoning makes a lot of sense, especial
 
 I agree with his idea since Internet piracy is too easy and accessible.
 
-Following the interview, I read him the following quote: 
+As part of the interview, I read him the following quote: 
 
 “In a study about attitudes and perceptions on music downloads using college students as subjects, Levin et al. (2004) found that only 63% of respondents download music. Those who download music have lesser ethical concerns and greater willingness to endorse ethically questionable acts, than those who do not download” (Altschuller 50). 
 
