@@ -23,7 +23,7 @@ description: A website all about myself.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "<iframe src="https://docs.google.com/document/d/e/2PACX-1vRQEsuj_EM25xGYjLneXxhp5S7uAmraDwA8GRe6FHEs-4jN8EApJWXwzA21FVFgeedb6sMA0hHsrL9T/pub?embedded=true"></iframe>"
   Presentations: "presentations"
   Blog: "blog"
   Resume: "resume"
