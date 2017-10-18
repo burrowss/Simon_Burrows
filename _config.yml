@@ -23,10 +23,10 @@ description: A website all about myself.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "<iframe src="https://docs.google.com/document/d/e/2PACX-1vRQEsuj_EM25xGYjLneXxhp5S7uAmraDwA8GRe6FHEs-4jN8EApJWXwzA21FVFgeedb6sMA0hHsrL9T/pub?embedded=true"></iframe>"
+  About Me: "aboutme"
   Presentations: "presentations"
   Blog: "blog"
-  Resume: "resume"
+  Resume: "https://docs.google.com/document/d/e/2PACX-1vRQEsuj_EM25xGYjLneXxhp5S7uAmraDwA8GRe6FHEs-4jN8EApJWXwzA21FVFgeedb6sMA0hHsrL9T/pub"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
