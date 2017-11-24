@@ -1,0 +1,95 @@
+= JSON Mapper
+by Trond Arve Nordheim -
+{Binary Marbles}[http://www.binarymarbles.com/]
+
+== NOTICE
+
+This is a project under heavy development. The API is far from stable yet, and
+the code is very unclean in some places. The API won't be considered stable
+until full tests are available verifying that all functionality is working as
+expected.
+
+== Description
+
+A Ruby gem for mapping data from JSON data structures into Ruby class representations.
+
+== Features
+
+* Simple one to one mappings
+* Complex mappings (many to one)
+* Associations
+* Type checking
+
+== Usage
+
+=== Simple one to one mapping
+  class Model
+
+    include JSONMapper
+
+    # Map the "id" attribute from the JSON data structure to the id attribute of the class,
+    # using Integer as the data type
+    json_attribute :id, Integer
+
+    # Map the "model_title" attribute from the JSON data structure to the title attribute of
+    # the class, using String as the data type
+    json_attribute :title, :model_title, String
+  
+  end
+
+=== Complex many to one mapping
+  class Model
+
+    include JSONMapper
+
+    # Map the "id", "model_id" or "modelid" attribute (whatever is located first) from the
+    # JSON data structure to the id attribute of the class, using Integer as the data type
+    json_attribute :id, [ :id, :model_id, :modelid ], Integer
+
+  end
+
+=== Associations
+  class AssociatedClass
+
+    include JSONMapper
+
+    # Map the "id" of the JSON data structure to the id attribute of the class, using
+    # Integer as the data type
+    json_attribute :id, Integer
+
+  end
+
+  class Model
+
+    include JSONMapper
+
+    # Map the "association" attribute from the JSON data structure to an instance of
+    # the AssociatedClass class, mapping it to the association attribute of the class.
+    json_attribute :association, AssociatedClass 
+
+    # Map all entries in the "associations" array from the JSON data structure to
+    # an array of AssociatedClass instances, mapping them to the associations attribute
+    # of the class
+    json_attributes :associations, AssociatedClass 
+
+  end
+
+== Requirements
+
+* {json}[http://rubygems.org/gems/json]
+
+== Installation
+
+ $ gem install json_mapper
+
+== Note on Patches/Pull Requests
+ 
+* Fork the project.
+* Make your feature addition or bug fix.
+* Add tests for it. This is important so I don't break it in a future version unintentionally.
+* Commit, do not mess with rakefile, version, or history. (if you want to have your own version, that is fine but bump version in a commit by itself I can ignore when I pull)
+* Send me a pull request. Bonus points for topic branches.
+
+== Copyright
+
+Copyright (c) 2010 Trond Arve Nordheim. See LICENSE for details.

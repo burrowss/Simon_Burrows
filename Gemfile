@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-gem "freelancer"
+gem 'github-pages', group: :jekyll_plugins

@@ -1,0 +1,53 @@
+= Freelancer API
+
+Copyright (C) 2010 Trond Arve Nordheim - {Binary Marbles}[http://www.binarymarbles.com/]
+
+== NOTICE
+
+This is a project under heavy development. The API is far from stable yet, and
+the code is very unclean in some places. The API won't be considered stable
+until all the full Freelancer.com API is implemented and have tests verifying
+that they work like they should.
+
+== Description
+
+A Ruby gem for working with the new Freelancer.com API.
+
+== Features
+
+* oAuth authentication.
+* Support for all Freelancer.com APIs.
+* Per-environment configuration and sandboxing.
+* Ruby on Rails support (via separate project {freelancer-rails}[http://github.com/tanordheim/freelancer-rails])
+
+== Issues and missing features
+
+* Multipart fields are not implemented yet.
+* File associations on projects and messages are not implemented yet.
+
+== Documentation
+
+* RDoc: http://rdoc.info/projects/tanordheim/freelancer-ruby
+* Usage: http://wiki.github.com/tanordheim/freelancer-ruby/
+
+== Requirements
+
+* {oauth}[http://rubygems.org/gems/oauth]
+* {json_mapper}[http://rubygems.org/gems/json_mapper]
+* {htmlentities}[http://rubygems.org/gems/htmlentities]
+
+== Installation
+
+ $ gem install freelancer
+
+== Note on Patches/Pull Requests
+ 
+* Fork the project.
+* Make your feature addition or bug fix.
+* Add tests for it. This is important so I don't break it in a future version unintentionally.
+* Commit, do not mess with rakefile, version, or history. (if you want to have your own version, that is fine but bump version in a commit by itself I can ignore when I pull).
+* Send me a pull request. Bonus points for topic branches.
+
+== License
+
+Copyright (c) 2010 Trond Arve Nordheim. See LICENSE for details.
